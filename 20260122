@@ -3,14 +3,27 @@
 <head>
   <meta charset="UTF-8">
   <title>お申込みフォーム</title>
-
-  <!-- iPhone対策 -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="refresh"
-        content="0;url=https://script.google.com/macros/s/AKfycbynP4J3mMWfAZPCszwQJCSHy5geoBk1d1DelezFTvIl_BDSAT3PXkHpU5Z2lkNv2FsfuQ/exec">
 
+  <meta http-equiv="refresh"
+        content="1;url=https://script.google.com/macros/s/AKfycbynP4J3mMWfAZPCszwQJCSHy5geoBk1d1DelezFTvIl_BDSAT3PXkHpU5Z2lkNv2FsfuQ/exec">
+
+  <script>
+    window.location.replace(
+      "https://script.google.com/macros/s/AKfycbynP4J3mMWfAZPCszwQJCSHy5geoBk1d1DelezFTvIl_BDSAT3PXkHpU5Z2lkNv2FsfuQ/exec"
+    );
+  </script>
 </head>
 <body>
   <p>申込みフォームへ移動しています…</p>
+
+  <noscript>
+    <p>
+      自動で移動しない場合は
+      <a href="https://script.google.com/macros/s/AKfycbynP4J3mMWfAZPCszwQJCSHy5geoBk1d1DelezFTvIl_BDSAT3PXkHpU5Z2lkNv2FsfuQ/exec">
+        こちらをタップしてください
+      </a>
+    </p>
+  </noscript>
 </body>
 </html>
